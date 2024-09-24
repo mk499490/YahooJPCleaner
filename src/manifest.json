@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Yahoo! Japan Elements Cleaner",
   "description": "選択したYahoo! Japanのトップページ項目を非表示にできます",
-  "version": "1.0",
+  "version": "1.0.1",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
