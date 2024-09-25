@@ -29,6 +29,6 @@ Yahoo! Japanのトップページに表示されるニュースフィードに�
 
 MITライセンスです。本拡張機能の使用に際し、開発者は一切責任を負いません。
 
-不具合や機能要望などございましたら、[Chromeウェブストア内のサポートページ](https://chromewebstore.google.com/detail/eebgdhjgpgcjamkfocchnkmfldmgkjol/support)か、[GitHubのissues機能](https://github.com/mk499490/YahooJPCleaner/issues)にてご連絡ください。プルリクエストも大歓迎です。なお、必ずしもご要望にお応えできるとは限りませんのでご了承ください。
+不具合や機能要望などございましたら、[Chromeウェブストア内のサポートページ](https://chromewebstore.google.com/detail/eebgdhjgpgcjamkfocchnkmfldmgkjol/support)か、[GitHubのissues機能](https://github.com/mk499490/YahooJPCleaner/issues)にてご連絡ください。[プルリクエスト](https://github.com/mk499490/YahooJPCleaner/pulls)も大歓迎です。なお、必ずしもご要望にお応えできるとは限りませんのでご了承ください。
 
 改造につきましては自由に行っていただいて構いません。公序良俗の範囲内でお願いいたします。
